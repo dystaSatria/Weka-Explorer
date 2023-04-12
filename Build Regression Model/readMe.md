@@ -1,4 +1,4 @@
-# Chapter 1
+# Build Regression Model 
 
 * We can start from the WEKA's template data. Click Open file and choose one of data from ```WEKA\data```.
 * After that we can see the each mean,mod are something information about the data.
@@ -11,6 +11,4 @@
   > This will divide the data into 10 equal parts, train the model on 9 parts and test it on the remaining 1 part, and repeat the process 10 times until all 10 parts have been used for testing.
  
  * You will see the equation the data. If you want to see prediction model choose ```use training set```. If you want to see the data split we can choose in ```Percentage split % 80 ```. The all data information we need is contained in the ```Correlation coefficient```.
- 
-  
 
