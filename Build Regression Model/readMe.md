@@ -13,7 +13,10 @@
  * You will see the equation the data. If you want to see prediction model choose ```use training set```. If you want to see the data split we can choose in ```Percentage split % 80 ```. The all data information we need is contained in the ```Correlation coefficient```.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+<br>
+<br>
+<br>
+<br>
 
 # Build Regression Model from the .csv data.
 
