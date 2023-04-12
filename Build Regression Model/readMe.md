@@ -10,5 +10,7 @@
   
   > This will divide the data into 10 equal parts, train the model on 9 parts and test it on the remaining 1 part, and repeat the process 10 times until all 10 parts have been used for testing.
  
+ * You will see the equation the data. If you want to see prediction model choose ```use training set```. If you want to see the data split we can choose in ```Percentage split % 80 ```.
+ 
   
 
