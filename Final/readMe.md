@@ -29,7 +29,7 @@ yer alır.
 *  kümeyi sunmak için en uygun nokta olan : medoid.
 
 ## Yoğunluk tabanlı
-* Yoğunluk tabanlı: Daha düşük yoğunluklu bölgelerden ayrılan daha yüksek yoğunluklu noktaların bir kümesidir
+* Yoğunluk tabanlı: Daha ```düşük yoğunluklu bölgelerden``` ayrılan ```daha yüksek yoğunluklu noktaların``` bir kümesidir
 * Kümeler; düzensiz, birbirine karışmış veya gürültülü olduğunda 
 kullanılır.
 
