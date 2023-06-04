@@ -41,3 +41,22 @@ kullanılır.
 *  Yo
 ğunluk tabanlı kümeleme 
 
+
+<br>
+<br>
+<br>
+
+## K-means Kümeleme 
+* Bölümlemeli kümeleme yaklaşımıdır.
+* Kümelerin sayısı, K, belirlenmelidir.
+* Temel algoritma çok basittir.
+* Her bir küme bir centroid ile uyumludur (merkez nokta)/
+* Her bir nokta kendisine en yakın centroid ile uyumlu
+
+## 
+* Başlangıç merkez noktaları sıklıkla rastgele seçilir
+* Centroid tipik olarak kümedeki noktaların bir ortalamasıdır.
+* ‘Yakınlık’ ```Euclidean uzaklığı```, ```cosine benzerliği```, ```correlation```, v.s. ile hesaplanabilir ve  noktada bir 
+araya getirecektir.
+*
+
