@@ -28,7 +28,16 @@ yer alır.
 * bütün noktaların bir ortalaması olan : centroid.
 *  kümeyi sunmak için en uygun nokta olan : medoid.
 
-#  Yoğunluk tabanlı
+## Yoğunluk tabanlı
 * Yoğunluk tabanlı: Daha düşük yoğunluklu bölgelerden ayrılan daha yüksek yoğunluklu noktaların bir kümesidir
 * Kümeler; düzensiz, birbirine karışmış veya gürültülü olduğunda 
 kullanılır.
+
+## Kümeleme Algoritmaları
+* K-means ve onun çe
+şitleri
+*  Hiyerar
+şik kümeleme
+*  Yo
+ğunluk tabanlı kümeleme 
+
