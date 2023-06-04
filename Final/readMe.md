@@ -13,3 +13,22 @@
 * ```Bölümlemeli Kümeleme```, Veri nesnelerinin,kapsamayan alt kümelere ayrılmasıdır.Her bir veri nesnesi altkümelerden sadece birinde
 yer alır.
 *  ```Hiyerarşik Kümeleme```.hiyerarşik ağaç gibi iç içe kümelerin dizi.
+
+## Kümelerin Tipleri
+* İyi dağıtılmış kümeler (Well-separated clusters)
+*  Merkez tabanlı kümeler.
+*  Bitişik Kümeler
+*  Yoğunluk tabanlı kümeler
+
+## İyi dağıtılmış kümeler
+* Her bir nokta,  kendi kümesindeki diğer noktalara daha yakın ,başka kümeden noktalara ise daha uzaktır.
+
+## Merkez tabanli
+* Merkez tabanli : Küme içindeki bir nokta, kendi küme merkezine diğer küme merkezlerine oranla daha yakın.
+* bütün noktaların bir ortalaması olan : centroid.
+*  kümeyi sunmak için en uygun nokta olan : medoid.
+
+#  Yoğunluk tabanlı
+* Yoğunluk tabanlı: Daha düşük yoğunluklu bölgelerden ayrılan daha yüksek yoğunluklu noktaların bir kümesidir
+* Kümeler; düzensiz, birbirine karışmış veya gürültülü olduğunda 
+kullanılır.
